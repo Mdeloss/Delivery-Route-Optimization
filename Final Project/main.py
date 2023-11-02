@@ -1,4 +1,4 @@
-# Mariano De Los Santos, Student ID 001523416
+# Mariano De Los Santos
 
 import csv
 from datetime import timedelta
@@ -381,7 +381,7 @@ loadPackageData('CSV/packages.csv', hashTablePackages)
 class Main:
     # User Interface
     # Program Title
-    print("Western Governors University Parcel Service (WGUPS)")
+    print("General Parcel Service (GPS)")
     print()
 
     # Run Truck 1 delivery and print details

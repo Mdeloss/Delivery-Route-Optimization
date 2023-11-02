@@ -1,6 +1,5 @@
-# Citing source: C950 - Webinar-1 - Let’s Go Hashing - Recording:
-# https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f08d7871-d57a-496e-a6a1-ac7601308c71
-# C950 zyBooks: Figure 7.8.2: Hash table using chaining.
+# Academic Details Removed
+
 class ChainingHashTable:
 
     # O(n) time
